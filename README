@@ -1,0 +1,14 @@
+A comparative study was conducted on text summarization techniques using a dataset comprising Shakespearean novels including "Comedy of Errors", "Merchant of Venice", "As You Like It", "Twelfth Night or What You Will" and "Midsummer Night's Dream". Twelve different models were employed, consisting of four abstractive and eight extractive approaches.
+The models used are:
+1. Automatic Summarization based on User Query
+2. Automatic Summarization based on Weighting
+3. LSA
+4. BERT Extractive Summarisation
+5. BART Abstractive Summarization
+6. T5  Abstractive Summarization
+7. BERT Abstractive summarisation
+8. Frequency based
+9. TF IDF
+10. Sentence Ranking
+11. TextRank 
+12. Pegasus
